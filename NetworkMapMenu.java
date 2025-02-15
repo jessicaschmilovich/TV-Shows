@@ -32,7 +32,7 @@ public class NetworkMapMenu
             System.out.println("1. View all TV shows by network");
             System.out.println("2. Search shows by cast member");
             System.out.println("3. View shows by network sorted by time slot");
-            System.out.println("4. Add a show to our fantastic list!");
+            System.out.println("4. Add a show to this fantastic list!");
             System.out.println("5. Exit");
             System.out.print("Enter your choice: ");
             
