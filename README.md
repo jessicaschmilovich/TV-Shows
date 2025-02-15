@@ -23,4 +23,4 @@ NetworkMapMenu.java: Provides a menu-driven interface for users to interact with
 
 TVShow.java: Defines the TVShow class, storing attributes like title, cast list, and average episode duration, with comparison methods for sorting.
 
-Shows.txt: Stores TV show data in a structured format, including network name, show title, cast, and episode duration.
+Shows.txt: Stores TV show data in a structured format, including network name, show title, cast, and average episode duration.
