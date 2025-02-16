@@ -12,8 +12,6 @@ Sort by Episode Duration: Organize shows within a network by their average episo
 
 Add New Shows: Users can add shows to the collection, with automatic duplicate detection to maintain unique entries.
 
-Data Management: Reads from and updates Shows.txt, ensuring all modifications persist across sessions.
-
 **Project Structure:**
 
 
